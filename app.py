@@ -35,7 +35,7 @@ def success(name):
 @app.route('/login',methods = ['POST', 'GET'])
 def login():
     if request.method == 'POST':
-        inputText = request.form['nm']
+        inputText = request.form['full-name']
 
         main.list=[]
         for i in range(len(inputText)):
