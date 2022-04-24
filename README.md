@@ -15,4 +15,4 @@ This project uses implementations of one the most famous algorithms - `Diffie He
 ## Result
 - Following is result of out cryptography system<br />
 
-![alt text](https://github.com/SiddheshKanawade/Public-Cryptography-System/Hnet-image.gif?raw=true)
+![alt text](https://github.com/SiddheshKanawade/Public-Cryptography-System/raw/master/Hnet-image.gif?raw=true)
